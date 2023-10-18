@@ -1,0 +1,12 @@
+{
+    [
+        {
+            "surname" : "Bennet",
+            "location" : "Meryton"
+        },
+        {
+            "surname" : "Darcy",
+            "location" : "Pemberley"
+        }
+    ]
+}
